@@ -7,8 +7,6 @@ STEPS FOR IMPLEMENTATOPN
 3) open the .py file in your code editor
 
 
-
-
 I have loaded some of the coolest cammands
 
 -> opening many websites

@@ -28,13 +28,13 @@ I have loaded some of the coolest cammands
 
 STEPS TO FOLLOW
 
-- Once you run the code first the assistant will greet you
+- Once you run the code, first the assistant will greet you
 
-- Then wait till the text listening... to show up in your output window
+- Then wait till the text "listening..." to show up in your output window
 
 - Then give command (I have only loaded the above commands, so please give the commands related to those)
 
-- Then bases on your command the appropriate output will come
+- Then based on your command the appropriate output will come
 
 - sometimes there might be an exception, in that case the assistant will say 'can you repeat again' 
 
@@ -42,7 +42,7 @@ STEPS TO FOLLOW
 
 - The assistant will keep on taking the command as long as you want
 
-- when you want to terminate the assistant just say 'shutdown'
+- when you want to terminate the assistant just say "shutdown"
 
 
 

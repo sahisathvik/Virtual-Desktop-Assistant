@@ -1,0 +1,29 @@
+pip install gTTS
+
+pip install PyAutoGUI
+
+pip install pyttsx3
+
+pip install SpeechRecognition
+
+pip install wikipedia
+
+pip install pyjokes
+
+pip install pywhatkit
+
+pip install opencv-python
+
+pip install googletrans
+
+pip install playsound
+
+pip install google-trans-new
+
+pip install pipwin
+
+pipwin install pyaudio
+
+pip install Pyaudio
+
+
